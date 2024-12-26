@@ -40,5 +40,19 @@ The repository presents a comprehensive tsunami hazard analysis for nuclear powe
 - Research and Policy: Supports geophysical and geospatial studies to inform policy decisions on coastal development and hazard mitigation.
 
 ---
-# Figures
+## Figures
 
+**Study Area and Datasets**
+
+![Tsunami](images/figure1.png "Modelling")
+
+--------
+
+**Results**
+
+![Tsunami](images/figure2.png "Modelling")
+Figure 2: Tsunami propagation model in the Arabian sea due to the Makran induced tsunami by a great earthquake (M 9). The screenshots (top left to bottom right) are showing tsunami propagation after 0, 60, 120, 180, 240, 300 and 360 minutes after the earthqauke.
+
+---------
+
+![Tsunami](images/figure3.png "Modelling")
