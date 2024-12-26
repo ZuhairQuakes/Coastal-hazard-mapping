@@ -1,4 +1,4 @@
-# Tsunami Impact Assessment on Western India's Nuclear Power Plants
+# Coastal hazard and tsunami risk mapping
 
 This project demonstrates the integration of geospatial data science with numerical modelling for disaster risk assessment, highlighting its potential to mitigate natural hazards and safeguard critical infrastructure. This work has been published in a peer-reviewed journal article: https://www.scirp.org/journal/PaperInformation?PaperID=81083&#abstract 
 
