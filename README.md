@@ -11,7 +11,7 @@ This work has been published in a peer-reviewed journal article: https://www.sci
 **Study Area and Datasets**
 
 ![Coastal](images/fig1.png "Hazard")
-Figure 1: GEBCO (a) and Topography (b) maps 
+Figure 1: Bathymetry (GEBCO) (a) and Topography (SRTM) (b) maps 
 
 --------
 
